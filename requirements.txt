@@ -22,7 +22,7 @@ trl==0.16.0
 optimum==1.16.2
 hf_transfer
 sentencepiece
-gradio==3.50.2
+gradio==5.23.0
 
 modal==0.70.5
 pydantic==2.10.6
