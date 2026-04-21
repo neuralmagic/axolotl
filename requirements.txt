@@ -46,7 +46,7 @@ scikit-learn==1.4.2
 nvidia-ml-py==12.560.30
 art
 tensorboard
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 
 # remote filesystems
 s3fs>=2024.5.0
